@@ -1,0 +1,671 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quadriga salutis Foure quadragesimal, or Lent-sermons, preached at White-hall: by Io. Rawlinson Doctor of Diuinity, principal of Edmund-Hall in Oxford, and one of his Maiesties chaplaines in ordinary.</title>
+            <author>Rawlinson, John, 1576-1630.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68637</idno>
+            <idno type="STC">STC 20774</idno>
+            <idno type="STC">ESTC S115698</idno>
+            <idno type="EEBO-CITATION">99850916</idno>
+            <idno type="PROQUEST">99850916</idno>
+            <idno type="VID">16153</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16153)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1151:6, 1253:18, 1555:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quadriga salutis Foure quadragesimal, or Lent-sermons, preached at White-hall: by Io. Rawlinson Doctor of Diuinity, principal of Edmund-Hall in Oxford, and one of his Maiesties chaplaines in ordinary.</title>
+                  <author>Rawlinson, John, 1576-1630.</author>
+               </titleStmt>
+               <extent>[8], 26, [4], 29, [3], 29, [3], 28, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Lichfield and William Turner, printers to the famous Vniuersity, for Elias Peerse,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1625.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The doue-like soule", "Lex talionis", "The surprising of heauen", and "The bridegrome, and his bride" each have separate divisional title page and pagination; register is continuous.</note>
+                  <note>With a final errata leaf.</note>
+                  <note>"The doue-like soule" identified as STC 20771 on UMI microfilm reel 1151.</note>
+                  <note>Reproductions of the originals in the British Library and the Union Theological Seminary (New York, N.Y.). Library.</note>
+                  <note>Appears at reel 1151 (British Library copy), and at reels 1253 and 1555 (Union Theological Seminary (New York, N.Y.). Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lenten sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:16153:1" rendition="simple:additions"/>
+            <p>THE DOVE-LIKE SOVLE.</p>
+            <p>A SERMON PREACHED BEFORE THE PRINCE'S HIGHNES AT WHITE-HALL, <hi>Febr.</hi> 19. 1618.</p>
+            <p>
+               <hi>BY</hi> I. R. D. D. and one of his MAIESTIES Chaplaines in Ordinary.</p>
+            <q>
+               <bibl>
+                  <hi>BERN. epiſt. 341.</hi>
+               </bibl>
+               <p>Nonne &amp; aviculas levat, non onerat pennarum, ſive plu<g ref="char:EOLhyphen"/>marum numeroſitas ipſa? Tolle eas, &amp; reliquum corpus pondere ſuo fertur ad ima.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:16153:2"/>
+            <pb n="1" facs="tcp:16153:2"/>
+            <head>THE TEXT.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSALME 55.6.</hi>
+                  </bibl>
+                  <p>Quis det, <hi>or,</hi> Quis dabit mihi pennas, ſicut columbael tunc volabo, &amp; requieſcam.</p>
+                  <p>Oh that I had, (or, who will giue mee) wings like vnto a doue! then would I fly away, and be at reſt.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">K</seg>Ing</hi> Dauid, <hi>though for inno<g ref="char:EOLhyphen"/>cency not onely a</hi> Doue,<note place="margin">PRAEFACE.</note>
+               <hi>but the</hi> Phaenix of Doues, <hi>and ſo a notable</hi> Type <hi>of</hi> Chriſt, <hi>vpon whom the</hi> Holy Ghoſt deſcen<g ref="char:EOLhyphen"/>ded in the ſhape of a Doue;<note place="margin">Matt: 3: 16.</note> () <hi>yet was his whole life no<g ref="char:EOLhyphen"/>thing elſe, but</hi> Bellum ſine indu<g ref="char:EOLhyphen"/>cijs, a perpetual perſecution without intermiſsion.</p>
+            <p>
+               <hi>Such was alſo the portion of</hi> Chriſt <hi>the Lord of</hi> Dauid: <hi>And ſuch, to the world's end, will euer bee the lott of thoſe that are the</hi> heritage <hi>of</hi> Chriſt.</p>
+            <p>
+               <hi>My Text import's no leſs; which, taken</hi> Hiſtori<g ref="char:EOLhyphen"/>cally, <hi>is the voice of</hi> Dauid <hi>purſüed by his enemies;</hi> Prophetically, <hi>the voice of</hi> Chriſt, <hi>at his paſſion;</hi> My<g ref="char:EOLhyphen"/>ſtically,
+<pb facs="tcp:16153:3"/>
+               <pb n="1" facs="tcp:16153:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:16153:4"/>
+               <hi>the voice of that</hi> Myſtical Doue, <hi>the</hi> innocent Soule, <hi>ſurrounded and invironed with the ſnares of Death; Euen</hi> Generalis quaedam querela, (<hi>ſaith</hi> Pel<g ref="char:EOLhyphen"/>lican) a general complaint of the malice of the wicked perſecuting the righteous.<note place="margin">Pellican: in loc:</note>
+            </p>
+            <p>
+               <hi>For (ahlas that ſo it ſhould bee! yet ſo it is)</hi>
+            </p>
+            <p>Non rete accipitri tenditur,<note place="margin">Ter: Ph<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>.</note> ne<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> miluio, Qui malè faciunt nobis; illis qui nil faciunt, tenditur. The net is not pitched for ravenous birds, as are the hauke, and the kyte, but for poore harmeles birds, that neuer meditate miſchiefe. <hi>And,</hi>
+            </p>
+            <p>Dat veniam corvis,<note place="margin">Iuvenal:</note> vexat cenſura columbas. The Doue ſhall ſurely be ſhott at, when the carrion Crow ſhall go ſhot-free.</p>
+            <p>
+               <hi>It will then be no newes vnto you, that here the</hi> faithfull Soule, <hi>the</hi> Spouſe, <hi>the</hi> Loue, <hi>the</hi> Doue <hi>of</hi> Chriſt, <hi>when</hi> trouble and heavines take holde vpon her, <hi>and</hi> the flouds of Belial compaſs her about, Tan<g ref="char:EOLhyphen"/>quam avis è cave â liberari cupit,<note place="margin">Auſtin: de opere Monach:</note> (<hi>as</hi> S<hi rend="sup">t</hi> Auſtin <hi>ſpeakes of the cloyſter'd</hi> Monkes <hi>in his time</hi>) Deſireth like a Bird to be looſed out of her cage. <hi>Or, that, as</hi> Ionas (<hi>by interpretation a</hi> Doue) <hi>after</hi> three dayes <hi>and</hi> three nights impriſonment <hi>in the</hi> whales belly, <hi>could not but long after his enlargement;</hi>
+               <note place="margin">Ion: 1: 17:</note> () <hi>So the</hi> Doue-like Soule <hi>of man, when not</hi> three, <hi>but</hi> many dayes, <hi>and</hi> moneths, <hi>and</hi> yeares, <hi>ſhe hath ben</hi> impriſoned <hi>in the</hi> body, <hi>hath a longing deſire to be</hi> enlarged, <hi>and to</hi> fly <hi>vnto God that made her; And ſo</hi> mourning <hi>like a</hi> Dove <hi>in devoute</hi> ſupplication, <hi>and</hi> mounting <hi>like a</hi> Dove <hi>in diuine</hi> ſpeculation, <hi>breake's forth into theſe</hi> ſad elegies; Oh that I had wings! <hi>and,</hi> Ahlas, that I
+<pb n="3" facs="tcp:16153:4"/>have not wings! Wo is me,<note place="margin">Pſal: 120: 4.</note> that I am conſtrein'd to dwel with Meſech, and to have myne habitation a<g ref="char:EOLhyphen"/>mong the tents of Kedar.<note place="margin">Pſal: 42: 1.</note> Like as the Hart deſires the water-brooke, ſo longeth my ſoule to be with thee, O God. I deſire to be diſsolued, and to be with Chriſt.<note place="margin">Phil: 1: 23.</note>
+            </p>
+            <p>Who will giue me wings, &amp;c.</p>
+            <p>
+               <hi>Which is, as if the</hi> poore diſtreſſed Soule;<note place="margin">PARAPHRASE</note> 
+               <hi>pathetically bemoaning her forlorne eſtate of pilgrimage, ſhould thus more plentifully enlarge herſelf. My</hi> Spouſe <hi>is al<g ref="char:EOLhyphen"/>ready aſce<g ref="char:cmbAbbrStroke">̄</g>ded higher than the</hi> winds, <hi>than the</hi> clouds, <hi>than the</hi> higheſt heavens; <hi>and I</hi> (poore Soule!) <hi>as a</hi> husbandles widow, <hi>as a</hi> tutorles Orphan, <hi>as a</hi> comfort<g ref="char:EOLhyphen"/>les exile, <hi>am left deſolate and diſconſolate in this</hi> valley of teares; <hi>none to care for mee, none to com<g ref="char:EOLhyphen"/>fort mee, till I have regained him whome I</hi> love, <hi>and in whome I</hi> liue. <hi>Nay, (which worſe is) this myne owne</hi> familiar friend, <hi>this neareſt and deareſt</hi> compa<g ref="char:EOLhyphen"/>nion <hi>of myne, my</hi> body, <hi>is euen a</hi> burden <hi>vnto mee. The weight of it, and of the ſins that hang ſo faſt on it, doth ſo clogg and ſhackle mee, ſo glew and nayle mee to the</hi> earth, <hi>that I cannot raiſe, or reare vp my ſelfe towards</hi> heaven. <hi>Or let him therefore deſcend to relieue mee, being</hi> Filia, Sponſa, Scror, <hi>his</hi> Daugh<g ref="char:EOLhyphen"/>ter, <hi>and</hi> Spouſe, <hi>and</hi> Siſter; <hi>Or let him</hi> giue me wings, <hi>wherewith I may aſcend to him,</hi>
+               <note place="margin">Pſal. 91: 4.</note> vnder the ſhadow of <hi>whoſe</hi> wings <hi>I ſhall ſurely</hi> reſt <hi>in ſafety.</hi>
+            </p>
+            <p>
+               <hi>I muſt confeſs, it was the very bitternes of extre<g ref="char:EOLhyphen"/>mity that</hi> firſt <hi>compell'd me to</hi> love <hi>him, though of himſelfe no leſs</hi> lovely <hi>than</hi> Love <hi>it ſelfe. It was the</hi> ſharpe ſauce <hi>of afflictions that gaue</hi> edge <hi>to myne af<g ref="char:EOLhyphen"/>fections, and</hi> ſharpen'd <hi>myne</hi> appetite <hi>to that</hi> ſweete
+<pb n="2" facs="tcp:16153:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:16153:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:16153:6"/>meate that endureth to euerlaſting life. <hi>But</hi> now, <hi>ha<g ref="char:EOLhyphen"/>ving had ſome litle</hi> fore-taſte <hi>of him, I am euen in an</hi> holy extaſy,<note place="margin">Plaut:</note>
+               <hi>ſo raviſhed, ſo tranſported with a fer<g ref="char:EOLhyphen"/>vent deſire of him, and of his preſence, that,</hi> Vbi ſum, ibi non ſum; vbi non ſum, ibi animus eſt, Where I am, there I am not; and where I am not, there am I. <hi>For,</hi> Anima eſt vbi amat, non vbi animat,<note place="margin">Eraſm:</note> The ſoule is where it loueth, not where it liueth. <hi>Now ſigh I not ſo much for the</hi> praeſent dangers <hi>I would decline, as becauſe of my</hi> abſent Loue, <hi>whom I moſt deſire.</hi>
+            </p>
+            <p>Who will giue me wings! <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>In the</hi> ſcanning <hi>of which</hi> verſe, ye will obſerue with mee</p>
+            <list>
+               <item>
+                  <hi>1 The</hi> Efficient,<note place="margin">PARTITION.</note>
+                  <hi>or</hi> Author <hi>of theſe</hi> wings, God. Who will giue mee? Who? <hi>that is, who but</hi> God?</item>
+               <item>
+                  <hi>2 The</hi> Matter <hi>of the</hi> wiſh; Wings. Who will giue mee wings?</item>
+               <item>
+                  <hi>3 The</hi> Forme <hi>of thoſe</hi> wings; Doue-like. Who will giue mee wings like vnto a Doue?</item>
+               <item>
+                  <hi>4 The</hi> End Mediate; Flying. Then would I fly away.</item>
+               <item>
+                  <hi>5 The</hi> End Vltimate; Reſting. And be at reſt.
+<list>
+                     <item>
+                        <hi>1</hi> Who will giue mee? <hi>There's</hi> Chriſtian Humi<g ref="char:EOLhyphen"/>lity.</item>
+                     <item>
+                        <hi>2</hi> Who will giue mee wings? <hi>There's</hi> prudent Ce<g ref="char:EOLhyphen"/>lerity.</item>
+                     <item>
+                        <hi>3</hi> Wings like vnto a Done? <hi>There's</hi> innocent Sim<g ref="char:EOLhyphen"/>plicity.</item>
+                     <item>
+                        <hi>4</hi> Then would I fly away. <hi>There's</hi> devoute Sub<g ref="char:EOLhyphen"/>limity.</item>
+                     <item>
+                        <hi>5</hi> And be at reſt. <hi>There's</hi> permanent Security.</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="5" facs="tcp:16153:6"/>
+            <p>
+               <hi>1</hi> Who will giue mee?) Rogat potius, quam inter<g ref="char:EOLhyphen"/>rogat,<note place="margin">
+                  <hi>1</hi> Quis det <hi>For,</hi> Quia dabit mi<g ref="char:EOLhyphen"/>hi<g ref="char:punc">▪</g>
+               </note> It's rather a Requeſt, than a Quaeſtion; <hi>an</hi> Op<g ref="char:EOLhyphen"/>tatiue, <hi>than an</hi> Interrogatiue phraſe <hi>of ſpeach. A</hi> phraſe <hi>very frequent in the Old Teſtament. But I will not loade you with</hi> instances. <hi>I will quote you one<g ref="char:EOLhyphen"/>ly</hi> two. <hi>The one,</hi>
+               <note place="margin">Exod: 16: 3.</note>
+               <hi>out of Exod. 16.3.</hi> Quis det mortui eſſemus! <hi>ſay the</hi> Iſraelites, <hi>murmuring againſt</hi> Mo<g ref="char:EOLhyphen"/>ſes <hi>and</hi> Aaron <hi>in the wildernes. Where the Septua<g ref="char:EOLhyphen"/>gint reade it</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, vtinam!<note place="margin">2 Sam: 18: 33.</note> Oh that we had dyed by the hand of the Lord, in the land of Aegypt! <hi>The other, out of 2 Sam. 18.33. where</hi> Dauid <hi>lamenting the death of his ſon</hi> Abſolon, <hi>cryeth out,</hi> Quis det mi<g ref="char:EOLhyphen"/>hi, ut pro te moriar! Oh that I had ben ſo happy, as to dy for thee!</p>
+            <p n="1">
+               <hi>1</hi> Firſt <hi>then for his</hi> phraſe, (Quis det!) <hi>It's worth the obſerving, that he ſpeakes of</hi> God <hi>with a</hi> Quis. <hi>Not with a</hi> Quis <hi>of</hi> curious inquiſition <hi>after his</hi> Eſ<g ref="char:EOLhyphen"/>ſence, <hi>which is</hi> vnſearchable; <hi>but with a</hi> Quis <hi>of</hi> pious admiration, <hi>in reguard of his</hi> Power, <hi>which is</hi> vn<g ref="char:EOLhyphen"/>ſpeakable. <hi>And becauſe there is nothing that he</hi> can<g ref="char:EOLhyphen"/>not; <hi>but he</hi> can <hi>whatſoeuer he</hi> will, <hi>therefore my Pro<g ref="char:EOLhyphen"/>phet ſaith not,</hi> Who can? <hi>but</hi> who will giue? God, <hi>whoſe</hi> Name <hi>is WONDERIVL,</hi> () Admiratione,<note place="margin">Eſa: 9: 6.</note> non ratione excipiendus eſt: <hi>His Eſſence, and his Power would be</hi> admired, <hi>rather than</hi> inquired; ado<g ref="char:EOLhyphen"/>red, <hi>rather than</hi> diſcuſſed; <hi>leſt</hi> ſoaring <hi>too-buiſily in<g ref="char:EOLhyphen"/>to ſo high myſteries with the</hi> wings of praeſumption, <hi>it fare with vs, as with the</hi> fly <hi>about the</hi> cup, <hi>or the</hi> moath <hi>about the</hi> candle; <hi>the fate of the one being to be</hi> drown'd; <hi>of the other, to be</hi> burn'd.</p>
+            <p n="2">
+               <hi>2<hi rend="sup">ly</hi>, If any ſhall aske me,</hi> Quis eſt Quis? Who is this
+<pb n="4" facs="tcp:16153:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:16153:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:16153:8"/>Who?<note place="margin">Iob: 21: 15.</note>
+               <hi>which is all one with that</hi> Atheiſtical de<g ref="char:EOLhyphen"/>maund, Quis eſt Omnipotens? who is the Almighty? <hi>I will turne him to</hi> Dauid's Pſalme <hi>of</hi> Qui's <hi>for his anſwere.</hi> Qui facit mirabilia magna ſolus. Qui fecit caelos in intellectu. Qui firmavit terram ſuper aquas; <hi>with a number of</hi> Qui's <hi>beſides.</hi>
+               <note place="margin">Pſal: 135. <hi>Chryſoſt: in Pſal:</hi> 53.</note> () <hi>That</hi> Qui <hi>is the</hi> Quis <hi>that is here meant. S<hi rend="sup">t</hi>
+               </hi> Chryſoſtome <hi>writing vpon thoſe words, Pſalm: 53:</hi> Quis exurget mecum contra iniuſtos? <hi>ſaith, it is</hi> Quaſi perluſtrâſſet omnes creatu<g ref="char:EOLhyphen"/>ras, as if my Prophet had taken a diligent ſurvey of all the creatures of the world, <hi>and finding among them all, none to aſſiſt him, is thereupon faine to fly vnto</hi> God <hi>vnder the name of</hi> Quis.</p>
+            <p>
+               <hi>And in like ſort doth</hi> Ruffinus <hi>paraphraſe my Text (though applying it to the</hi> reſurrection <hi>of</hi> Chriſt) O father <hi>(ſaith he)</hi> raiſe me vp againe by thyne almighty power;<note place="margin">Ruffin: in l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c:</note> Nam quis alius praeter te, &amp;c. For who but thou alone is able to giue mee wings?</p>
+            <p n="3">3ly. <hi>My Prophet, in this</hi> Option, <hi>or</hi> wiſh, (Quis det!) <hi>reade's vs an excellent</hi> Lecture <hi>of</hi> Humility; <hi>to learne vs</hi> whence <hi>theſe</hi> wings <hi>are to be had; that they are not</hi> Natiuae, <hi>but</hi> Donatiuae; <hi>we haue them not of</hi> our ſelues, <hi>but are to beg them of</hi> God <hi>by prayer,</hi> from whom euery good giuing, and euery per<g ref="char:EOLhyphen"/>fit gift cometh.<note place="margin">
+                  <hi>Iac: 1: 17:</hi> Auſt: l: de vit: innocent:</note> () Semper enim petitur, quod ſemper optatur; <hi>For a</hi> Chriſtian wiſh (<hi>ſaith</hi> Auſtin) doth euer include a prayer. <hi>And,</hi> Incaſſum laborat, qui ali<g ref="char:EOLhyphen"/>unde virtutes acquirendas putet, quàm à domino vir<g ref="char:EOLhyphen"/>tutum,<note place="margin">Gregor:</note> He looſeth his labour (<hi>ſaith</hi> Gregory) who thinkes to haue the wings of virtues, vnleſs he haue them from the Lord of hoſts, the Lord of all virtues.
+<pb n="7" facs="tcp:16153:8"/>He <hi>it was, that when</hi> the Dragon ſtood before the wo<g ref="char:EOLhyphen"/>man, ready to devoure her childe, ſo ſoone as ſhee ſhould be delivered, gaue wings to the woman to fly <hi>from him</hi> into the wildernes.<note place="margin">Apoc: 12: 14:</note> () <hi>The fowles of the aër</hi> (I graunt) <hi>are by an Hebraiſme call'd</hi> Domini a<g ref="char:EOLhyphen"/>larum, Maiſters of the wings;<note place="margin">Eccleſiaſtes 10: <hi>vlt:</hi>
+               </note> () <hi>But</hi> Dominus ala<g ref="char:EOLhyphen"/>rum, dominus exercituum, the true Lord and Maiſter of the wings, is the Lord of hoſts;<note place="margin">Pſal: 60: 10.</note> () Our winged hoſts. <hi>For,</hi> armies <hi>alſo are ſaid to haue</hi> Alas, wings; <hi>becauſe the</hi> ſide-parts <hi>thereof were</hi> ſo <hi>marſhalled of olde,</hi> Vt ſimilitudinem volantis tota acies haberet, that the whole army had the reſemblance of a flying bird. <hi>Inſomuch that the Prophet</hi> Eſay,<note place="margin">Eſa: 8: 8:</note> () <hi>ſpeaking of the mighty</hi> army <hi>of the Kings of</hi> Aſſyria, <hi>de<g ref="char:EOLhyphen"/>ſcribes it by this metaphor,</hi> Extenſio alarum, the ſtretching out of his wings ſhal fill the breadth of thy land, ô Immanüel; <hi>that is, the breadth of the land of</hi> Iuda. He <hi>(I ſay) that is the</hi> Lord of hoſts, <hi>&amp; ſo of the</hi> wings <hi>of</hi> hoſts, he <hi>it is, &amp; none but</hi> he, <hi>that is the</hi> Lord <hi>of the</hi> wings, <hi>the</hi> Doue-like wings <hi>of the</hi> Soule. <hi>Nay more,</hi> Idem dator, &amp; redditor, he is both the giuer, &amp; the reſtorer of them. <hi>S<hi rend="sup">t</hi>
+               </hi> Austin <hi>will make it plaine;</hi> () Quia, ſi deſunt, dat: ſi ligatae ſunt, ſoluit: becauſe if the ſoule want wings, he giue's her wings:<note place="margin">Auſt: in Pſal:</note> if her wings he tyed, he looſeth her wings. <hi>For, he that</hi> loo<g ref="char:EOLhyphen"/>ſeth <hi>the</hi> wings <hi>of a bird, that are tyed;</hi> Aut dat, aut reddit illi pennas ſuas, He either giue's, or reſtore's her wings. <hi>For, albeit ſhe had</hi> wings, <hi>yet after a ſort ſhe had them not, while ſhe could not command the</hi> vſe <hi>of them. But</hi> wings <hi>(I am ſure) the</hi> Soule <hi>hath none, nor none can haue, either</hi> fast, <hi>or</hi> looſe, <hi>vnleſs
+<pb n="6" facs="tcp:16153:9"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:16153:9"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:16153:10"/>they be firſt giuen her by this</hi> Quis, <hi>the</hi> Lord <hi>of the</hi> wings. <hi>And ſo, from the</hi> Author <hi>of the</hi> wings, (God) <hi>I come to the</hi> Matter <hi>of the</hi> wiſh, wings. Who will giue me wings?</p>
+            <p>
+               <hi>The</hi> righteous man <hi>being in a wonderful ſtreight,</hi>
+               <note place="margin">2 <hi>PENNAS.</hi>
+               </note>
+               <hi>not knowing how, or which way to turne himſelfe, what doth he? Doth he grow ſo male-content with<g ref="char:EOLhyphen"/>in himſelfe, as in a deſperate moode to ſay,</hi> Who will giue me a knife, <hi>and I will</hi> ſtab my ſelfe? <hi>Or, ſo furi<g ref="char:EOLhyphen"/>ouſly enraged againſt his enemies, as in a bitter pang of impatience, to cry out,</hi> Who will giue me <hi>the</hi> horne <hi>of an</hi> Vnicorne, <hi>that I may</hi> goare <hi>them? Or, the</hi> teeth <hi>of a</hi> Tygre, <hi>that I may</hi> teare <hi>them? Or, the</hi> pawes <hi>of a</hi> Lyon, <hi>that I may</hi> rend <hi>them? Or, the</hi> Ey <hi>of a</hi> Baſiliske, <hi>that I may</hi> ſlay <hi>them? Or, the</hi> Head <hi>of a</hi> Serpent, <hi>that I may</hi> malitiouſly plott <hi>againſt them? No ſuch matter. But,</hi> who will giue mee wings like a Doue, <hi>wherewith I may</hi> rid <hi>and</hi> expedite my ſelfe <hi>from them?</hi>
+            </p>
+            <p>
+               <hi>For,</hi>
+               <note place="margin">Laert: l: <hi>6:</hi> in vit: Diogen:</note>
+               <hi>albeit</hi> Plato defined Man, <hi>to be</hi> Animal bi<g ref="char:EOLhyphen"/>pes, implume, () a two-footed creature, without fea<g ref="char:EOLhyphen"/>thers; <hi>yet may wee truly affirme of the</hi> devout man, <hi>that he is</hi> Animal bipes, bipenne, a two-footed, <hi>and</hi> a two-winged creature: Two-footed, <hi>in reſpect of his</hi> body; two-winged, <hi>in reſpect of his</hi> ſoule. <hi>And in</hi> this <hi>ſenſe doth</hi> Theodorite <hi>terme him</hi> Animal alatum,<note place="margin">Theodorie:</note> a winged creature; Quia quum in terris vt animal verſetur, vt avis tamen in ſublime volat, becauſe though his body ſoiourne here on earth, yet doth his ſoule,<note place="margin">Pie: Mirandul: Orat:</note> like a bird, ſoare vp to heauen. <hi>So doth</hi> Zoro<g ref="char:EOLhyphen"/>aſtes (<hi>in</hi> Picus Mirandula) <hi>inſtruct his Scholars,</hi>
+               <pb n="9" facs="tcp:16153:10"/>Animam eſſe alatam, that the Soule of man is winged; <hi>and that, when thoſe</hi> wings fall off, Praeceps fertur in corpus, then ſhee pitcheth downe headlong into the body: <hi>but</hi> Illis ſuccreſcentibus, ad ſuperos revolat: when they grow out againe, then ſhe flyeth vp againe. <hi>And for the better</hi> growth <hi>of their</hi> wings, <hi>he wiſheth them, to</hi> water <hi>them with the</hi> waters of life, <hi>which (he tell's them) muſt be</hi> drawne <hi>out of the</hi> foure ri<g ref="char:EOLhyphen"/>uers in Paradiſe; Piſhon, Gihon, Hiddekel, <hi>and</hi> Pe<g ref="char:EOLhyphen"/>rath,<note place="margin">Gen: 2: 11.</note>
+               <hi>by his interpretation,</hi> Rectum, Expiatio, Lumen, Pietas: Rectitude <hi>of</hi> will, Expiation <hi>of</hi> worke, Light <hi>of</hi> knowledge, <hi>and</hi> Piety <hi>of</hi> devotion.</p>
+            <p>Mons Dei, mons excelſus;<note place="margin">Pſalt 68: 15.</note> () The mount of heauen is a high mount. Vel ſcalis, vel alis opus eſt, The ſoule muſt either mount vp a Iacob's ladder,<note place="margin">Gen: 28: 12.</note> or elſe ſhee muſt haue wings to mount her vp thither. Wings; <hi>whoſe</hi> extenſion <hi>muſt be in the</hi> longitude <hi>of</hi> hope; <hi>whoſe</hi> expanſion <hi>in the</hi> latitude <hi>of</hi> loue; <hi>whoſe</hi> ele<g ref="char:EOLhyphen"/>vation <hi>in the</hi> altitude <hi>of</hi> faith. Wings; ad erigen<g ref="char:EOLhyphen"/>dum, <hi>to</hi> raiſe her vp <hi>to take her</hi> flight: <hi>and</hi> Ad diri<g ref="char:EOLhyphen"/>gendum, to direct <hi>her</hi> flight <hi>to the marke: and laſtly,</hi> Ad regendum, to ſteere and guide <hi>her courſe in the way to the marke.</hi>
+            </p>
+            <p>
+               <hi>But I ſhall tell you a</hi> wonder. <hi>The</hi> ſoule <hi>hath not 1</hi> pare <hi>of</hi> wings <hi>onely, as haue</hi> birds; <hi>nor 3</hi> pare <hi>as haue the</hi> Seraphins; <hi>but 6</hi> pare,<note place="margin">Eſa: 6.2:</note>
+               <hi>if we will belieue the learned.</hi>
+            </p>
+            <p n="1">
+               <hi>1</hi> One <hi>pare I finde in</hi> Viegas, () <hi>to be</hi> Praeterito<g ref="char:EOLhyphen"/>rum Dolor, &amp; Cautio futurorum:<note place="margin">Viegas in Apoc: 12.</note> a godly ſorow for ſinnes paſt, and a wiſe praevention of future ſinnes; <hi>the</hi> two parts <hi>of</hi> Repentance, <hi>which</hi> cover <hi>the</hi> na<g ref="char:EOLhyphen"/>kednes <hi>of the</hi> ſoule, <hi>as</hi> wings <hi>do the</hi> nakednes
+<pb n="8" facs="tcp:16153:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:16153:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:16153:12"/>
+               <hi>of a</hi> bird's body.</p>
+            <p n="2">
+               <hi>2</hi> Another <hi>pare I finde in</hi> Gerſon () <hi>to be</hi> Spes,<note place="margin">Gerſon. ſer. <hi>58.</hi>
+               </note> &amp; Timor; Hope, and Feare. <hi>The</hi> right wing, Hope; <hi>be<g ref="char:EOLhyphen"/>cauſe of the mercy, and fauour, and bounty of</hi> God: <hi>the</hi> left wing, Feare; <hi>becauſe of the miſery, and frail<g ref="char:EOLhyphen"/>ty, and neceſſity of</hi> man. <hi>And as a</hi> bird <hi>(ſaith he) by her</hi> wings <hi>is kept from</hi> falling to the ground: <hi>ſo the</hi> ſoule, <hi>while with theſe two</hi> wings <hi>ſhee is lifted aloft in prayer, is kept from</hi> falling into ſin.</p>
+            <p n="3">
+               <hi>3 A</hi> third <hi>pare I finde in</hi> (<hi>that greate</hi> Platonick,<note place="margin">Marſil. Fici<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. l. de Chriſtian. Relig. praefat, ſub i<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t.</note>) Ficinus, <hi>to be</hi> Intellectus voluntatem illuminans, &amp; voluntas intellectum accendens: Vnderſtanding, or Reaſon illightening the will; and will inflaming the vnderſtanding:<note place="margin">Bernard. de verb. Eſa. Proph. ſer. <hi>4.</hi>
+               </note>
+               <hi>Which by devoute</hi> Bernard, (<hi>the</hi> Fa<g ref="char:EOLhyphen"/>ther of devotion,) <hi>are otherwiſe termed</hi> Agnitio, &amp; Devotio, Knowledge, <hi>and</hi> Devotion: <hi>Neither of them can</hi> ſublimate <hi>the</hi> ſoule <hi>without the other.</hi> Devotion, <hi>without</hi> Knowledge, <hi>being but</hi> blinde zeale: <hi>and</hi> Knowledge, <hi>without</hi> Devotion, <hi>but</hi> learned impiety. <hi>Both therfore muſt</hi> Pari greſſis in Deum tendere, be yoake-fellowes <hi>as it were</hi> in the way to God. <hi>For, where the</hi> light of intellect <hi>is quite put out, as in the</hi> Romiſh <hi>Liturgy, which (forſooth) muſt be read in an vnknowne tongue, there what</hi> warmth of zeale <hi>can be imparted to the cold affection of the ignorant I<g ref="char:EOLhyphen"/>diot? And on the other ſide, where there is</hi> know<g ref="char:EOLhyphen"/>ledge <hi>without</hi> zeale, (<hi>which is not the leaſt blemiſh of our</hi> Engliſh <hi>Profeſſours</hi>) <hi>there may that</hi> olde taunt <hi>be fitly taken vp;</hi> Praevolat intellectus, &amp; ſequitur tardus, aut nullus affectus: The vnderſtanding flyeth before, but the affection cometh limping a long way
+<pb n="11" facs="tcp:16153:12"/>after, if at all.</p>
+            <p n="4">
+               <hi>4 A</hi> fourth <hi>pare I find in</hi> Pariſienſis,<note place="margin">Gul: Pariſ: ſer: in Aſeenſ: Dom:</note> () <hi>to be</hi> Con<g ref="char:EOLhyphen"/>temptus Mundi, &amp; Amor Caeleſtis regni: a contempt of the world, and worldly things, and a deſire of heauen, and heauenly things. <hi>For, neither can we be</hi> fully wea<g ref="char:EOLhyphen"/>ned <hi>fro<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> this world, <hi>vnleſs we be</hi> truly enamoured <hi>with that</hi> other world, <hi>nor</hi> truly enamoured <hi>with that</hi> o<g ref="char:EOLhyphen"/>ther <hi>world, vnleſs we be</hi> fully weaned <hi>fro<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> this <hi>world.</hi>
+            </p>
+            <p n="5">
+               <hi>5 A</hi> ſift <hi>pare I finde in</hi> Hugo de S <hi>
+                  <hi rend="sup">to</hi>
+               </hi> Victore,<note place="margin">Hug: de S: Vict: Iuſtit: Monaſt: ſer: <hi>97:</hi>
+               </note> () <hi>to be</hi> Gemina Charitas, a two-fold Loue; In Deum: In Proximum, <hi>the one,</hi> towards God: <hi>the other,</hi> towards our Neighbour: <hi>becauſe, as a bird is</hi> covered <hi>with her</hi> wings, <hi>ſo doth</hi> Loue couer a multitude of ſinnes.<note place="margin">Iac: 5: 20: <hi>Auſt: praefat: in Pſal:</hi> 140:</note> () <hi>But,</hi> Haec charitas non qualiſcun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> eſt, (<hi>ſaith</hi> Auſtin) It's not euery ſick feather of loue, that is fitt to be ſtuck in theſe wings. <hi>For firſt, our</hi> loue to God <hi>muſt be ſuch as is</hi> God's <hi>to</hi> vs; Voluntary, <hi>not</hi> Mercenary: <hi>&amp; then, our</hi> loue to our Neighbours, <hi>ſuch as we would wiſh our</hi> Neighbour's <hi>ſhould bee to</hi> vs; ſincere, <hi>without</hi> hypocriſy: Permanent, <hi>without</hi> vncertainty: <hi>and (which muſt be the ground of both)</hi> Religious, <hi>with<g ref="char:EOLhyphen"/>out</hi> impiety. <hi>For, euen the</hi> wicked <hi>are leagued and</hi> linked <hi>together in the ſtreighteſt bonds of a</hi> ſtreined conſcience: <hi>and they are ſaid</hi> entirely <hi>to</hi> loue <hi>one a<g ref="char:EOLhyphen"/>nother, impatiently to beare the abſence one of ano<g ref="char:EOLhyphen"/>ther, exceedingly to delight in the company and conference one of another. But,</hi> Amor iſte Tartare<g ref="char:EOLhyphen"/>us eſt, This loue (<hi>ſaith</hi> Auſtin) is a helliſh, diveliſh loue.<note place="margin">Auſt: ibid:</note> Viſcum habet, quo deijciat in profundum, non pennas, quibus levet in caelum: It hath in it bird-lime, to catch and caſt vs into hell, not wings, wherewith to
+<pb n="10" facs="tcp:16153:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:16153:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:16153:14"/>elevate and lift vs vp to heauen.</p>
+            <p n="6">
+               <hi>6 The</hi> ſixt <hi>and</hi> laſt <hi>pare I finde in</hi> Petrus Bleſen<g ref="char:EOLhyphen"/>ſis,<note place="margin">Petr: Bleſenſ: ſer. <hi>51.</hi>
+               </note> () <hi>to be</hi> Actio, &amp; Contemplatio, Action, and Con<g ref="char:EOLhyphen"/>templations. <hi>For, in both theſe muſt a Chriſtian man enterchangeably buiſy himſelfe. His whole</hi> life <hi>muſt be as a</hi> Iacob's Ladder:<note place="margin">Gen: 28:12.</note> () <hi>The</hi> foote <hi>of it fixed on the</hi> earth <hi>by</hi> Action, <hi>but the</hi> top <hi>reaching vp to</hi> heauen <hi>by</hi> Contemplation. <hi>One while he muſt be</hi> Angelus aſ<g ref="char:EOLhyphen"/>cendens, an Angel aſcending <hi>to the</hi> ſervice <hi>of</hi> God <hi>by</hi> Contemplation: <hi>An other while,</hi> Angelus deſcendens, an Angel deſcending <hi>to the helpe of his</hi> Neighbour <hi>by</hi> Action.</p>
+            <p>
+               <hi>The</hi> two Maiſter-feathers, <hi>in the</hi> wing <hi>of</hi> Action, <hi>are;</hi> Obedience <hi>in the</hi> heart, <hi>to obey what God com<g ref="char:EOLhyphen"/>maundeth;</hi>
+               <note place="margin">Pſal: 57: 8.</note> () <hi>and</hi> Execution <hi>in the</hi> hand, <hi>to performe what he enioyneth.</hi>
+               <note place="margin">Pſal: 40: 10.</note> ()</p>
+            <p>
+               <hi>The</hi> two Maiſter-feathers, <hi>in the</hi> wing <hi>of</hi> Contem<g ref="char:EOLhyphen"/>plation, <hi>are; A</hi> Perſuaſion <hi>of God's</hi> Power, <hi>to make vs</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Luc: 20: 36. 1 Tim: 2: 4.</note> aequall with the Angels: <hi>and a</hi> Confidence <hi>in his</hi> Mercy, that he will haue all men to be ſaued. ()</p>
+            <p>
+               <hi>Lo; the</hi> ſoule <hi>of the righteous hath</hi> ſixe pare <hi>of</hi> wings. <hi>The firſt pare,</hi> A godly ſorow for ſinnes paſt, and a wiſe praevention of future ſinnes. <hi>The ſecond,</hi> Hope, and Feare. <hi>The third,</hi> Knowledge, &amp; Devotion. <hi>The fourth,</hi> a Contempt of the world, and worldly things; and a Deſire of heauen, and heauenly things. <hi>The fift,</hi> the Loue of God, and the Loue of our Neigh<g ref="char:EOLhyphen"/>bour. <hi>The ſixt, and laſt,</hi> Action, <hi>and</hi> Contemplation.</p>
+            <p>
+               <hi>Do ye wonder at this?</hi>
+               <note place="margin">Auſt: in Pſal:</note>
+               <hi>S<hi rend="sup">t</hi>
+               </hi> Auſtin <hi>make's this won<g ref="char:EOLhyphen"/>der yet more wonderfull. For he ſaith plainely, that</hi> Pennae ſunt virtutes, the wings of the ſoule, are the
+<pb n="13" facs="tcp:16153:14"/>virtues of the Soule; <hi>and ſo conſequently, the ſoule hath ſo many</hi> wings, <hi>as ſhee hath</hi> virtues. <hi>For, it is not with the</hi> ſoule, <hi>as with other</hi> winged creatures; <hi>of which the Naturaliſts obſerve, that</hi> Volatilia im<g ref="char:EOLhyphen"/>perfecta plures habent alas, quàm perfecta: Such as are imperfit haue more wings than the perfit; <hi>as, we ſee, there are certeine</hi> imperfit inſect flyes, <hi>that haue</hi> foure, <hi>or</hi> ſixe wings, <hi>whereas</hi> birds <hi>which are</hi> perfit <hi>creatures, haue but</hi> two. <hi>No; the</hi> multiplicity <hi>of the</hi> ſoule's wings <hi>is no argument of the</hi> imperfection, <hi>but rather of the</hi> perfection <hi>of the ſoule, which the more</hi> virtuous <hi>it is, the more</hi> perfit <hi>it is, and the more</hi> per<g ref="char:EOLhyphen"/>fit <hi>it is, the more eager it is to atteine to the higheſt</hi> pitch <hi>of</hi> perfection,</p>
+            <p>
+               <hi>But, becauſe</hi> Properanti etiam celerit as mora eſt: He that haſteneth, think's quicknes it ſelfe to be but ſlacknes; <hi>therefore the</hi> devoute ſoule <hi>hying and haſte<g ref="char:EOLhyphen"/>ning forward in the way to God, content's not her<g ref="char:EOLhyphen"/>ſelfe with</hi> leggs; <hi>hardly with</hi> wings. <hi>For, it's not</hi> euery wing <hi>that will ſerue her turne: but ſhee muſt haue ei<g ref="char:EOLhyphen"/>ther</hi> Pennas aurorae, the wings of the morning;<note place="margin">Pſal: 139.8.</note> () <hi>whoſe</hi> winged <hi>light</hi> flyeth <hi>from Eaſt to Weſt in an inſtant, and filleth the whole Hemiſpheare with her brightnes: or elſe</hi> Fennas Columbae, the wings of a Doue; <hi>which are</hi> Perniciſsimae, vt eam accipiter aſſe<g ref="char:EOLhyphen"/>qui non poſsit; () ſo admirably ſwift,<note place="margin">Pellicaa: &amp; Emman: Sa:</note> that ſhe infinite<g ref="char:EOLhyphen"/>ly out-flye's the hawke. <hi>So, ſhee ſumme's not vp her</hi> wiſh <hi>with</hi> wings; <hi>but</hi> (<hi>in the</hi> third <hi>place</hi>) <hi>ſhee muſt haue</hi> wings like vnto a Doue.<note place="margin">
+                  <hi>3</hi> SICVT CO<g ref="char:EOLhyphen"/>LVMBAE.</note>)</p>
+            <p>
+               <hi>As</hi> God, <hi>of all the</hi> fowles <hi>of Heauen, hath choſen to himſelfe but one</hi> Doue; () <hi>ſo the</hi> faithfull ſoule,<note place="margin">2 Eſdr: 5: 26.</note>
+               <hi>of
+<pb n="12" facs="tcp:16153:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:16153:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:16153:16"/>all the fowles</hi> wings, <hi>hath choſen onely the</hi> Doues wings. <hi>For, not birds of euery feather can reach ſo high, as</hi> Heauen. <hi>The</hi> ſoule <hi>that will</hi> fly thither, <hi>muſt haue not onely</hi> Pennas, wings; <hi>but</hi> Pennas, Sicut Co<g ref="char:EOLhyphen"/>lumbae, Doue-like wings: <hi>And</hi> Sicut, <hi>not onely</hi> Simili<g ref="char:EOLhyphen"/>tudinis, <hi>but</hi> Aequiparantiae, like them <hi>not for</hi> ſhew <hi>onely, but for</hi> vſe <hi>too.</hi>
+            </p>
+            <p>
+               <hi>There's a</hi> great family <hi>of</hi> Sicut's <hi>in the world. Many that are onely</hi> Sicut collum Columbae, like the Doue <hi>in</hi> nothing, <hi>but in her</hi> neck. <hi>As that hath in it</hi> Colores Iri<g ref="char:EOLhyphen"/>dis, all the colours of the raine-bow: <hi>ſo haue they</hi> co<g ref="char:EOLhyphen"/>lores veritatis, all the colours of truth &amp; honeſty that may bee. <hi>But,</hi> veritas ſine fuco eſt, true honeſty, <hi>as it</hi> feareth, <hi>ſo it</hi> loueth no colours; <hi>becauſe the</hi> more co<g ref="char:EOLhyphen"/>lours, <hi>the</hi> leſs honeſty.</p>
+            <p>
+               <hi>Sayde I, in</hi> nothing like <hi>her, but in her</hi> neek? <hi>Yes, in her</hi> voice <hi>too. For, ſo is the Church of</hi> Rome; <hi>ha<g ref="char:EOLhyphen"/>uing</hi> vocem columbinam,<hi>but</hi> vitam corvinam;<note place="margin">Numfred: confut: Campian: rat: <hi>3.</hi>
+               </note> () the voice of a Doue, <hi>praetending nothing but</hi> ſimplicity but the life of a crow, vivens cadaveribus, liuing by the death, and downefall of Princes.</p>
+            <p>Againe, <hi>There are many that haue</hi> Pennas, <hi>and</hi> Pen<g ref="char:EOLhyphen"/>nas Sicut, wings, <hi>and</hi> wings like: <hi>hut</hi> like <hi>to</hi> what? <hi>Not</hi> Sicut columbae, like vnto a Doue: <hi>but</hi>
+            </p>
+            <p n="1">
+               <hi>1</hi> Sicut Cicadae, like vnto a Graſſhopper: Pennas, quibus à terrâ elevari non poſſunt,<note place="margin">Gerſon: medit: <hi>70:</hi> circa Aſcenſ: Dam:</note> () Wings that can<g ref="char:EOLhyphen"/>not lift them vp from the earth. <hi>Or, if they do, it is but</hi> Per ſaltum, <hi>not</hi> Per volatum; they onely ſerue them to hop, not to fly with. <hi>No ſooner</hi> vp <hi>from the earth, but by and by</hi> downe <hi>againe.</hi> Such <hi>are</hi> they, <hi>whoſe</hi> de<g ref="char:EOLhyphen"/>votion <hi>is</hi> ſoone hott, ſoone colde <hi>againe. They could
+<pb n="15" facs="tcp:16153:16"/>like it well, to go to heauen</hi> Per ſaltum, <hi>as it were</hi> at one iump, <hi>without more adoo: but</hi> Per volatum, by flying, <hi>(by a co<g ref="char:cmbAbbrStroke">̄</g>ſtant courſe of well-doing), that's too-laborious for them: they cannot, they will not en<g ref="char:EOLhyphen"/>dure it.</hi>
+            </p>
+            <p n="2">
+               <hi>2 Or,</hi> Sicut Milui, like vnto a Kyte, Quiſurſum vo<g ref="char:EOLhyphen"/>lat, ut praedam in terrâ commodiùs deſpiciat; Which mount's high, that he may the better eſpy a prey below; <hi>vpon which he praeſently</hi> diſmount's <hi>againe, and liue's vpon ſpoile and rapine, either of</hi> liue <hi>pullen, or of</hi> dead <hi>carrion.</hi> Such <hi>are they that make a goodly</hi> ſhew <hi>of</hi> mortification, <hi>of</hi> holines, <hi>of</hi> retirednes from the world, <hi>euen as if they were</hi> rapt vp into <hi>S<hi rend="sup">t</hi>
+               </hi> Paul's third heauen; <hi>Yet none, whoſe</hi> Ey, <hi>and whoſe</hi> heart <hi>is more firmely</hi> fixed vpon the world, <hi>than theirs.</hi>
+            </p>
+            <p n="3">
+               <hi>3 Or,</hi> Sicut Falconis, like vnto a Falcon; <hi>which can finde no</hi> reſt <hi>for his</hi> wings, <hi>becauſe he is euer buiſy in purſuite of a prey.</hi> Such <hi>are they that gree<g ref="char:EOLhyphen"/>dily riſe by others ruine; of whom the Lord com<g ref="char:EOLhyphen"/>plaineth, Ier: 2: 34: by a</hi> metaphor <hi>taken from birds that</hi> ſteine <hi>their</hi> wings <hi>with</hi> prey;<note place="margin">Ier: 2: 34:</note> In alis tuis inventus eſt ſanguis: In thy wings is found the bloude of the ſoules of the poore innocents.</p>
+            <p>
+               <hi>Or,</hi> Sicut Struthionis, like vnto an Oſtrich, <hi>which is a</hi> bird-beaſt; () <hi>halfe a</hi> bird <hi>of the</hi> aër,<note place="margin">Calvin: in Iob: <hi>39: 16:</hi> &amp; A<g ref="char:EOLhyphen"/>quin <hi>12a:</hi> q. <hi>102:</hi> art: <hi>6.</hi>
+               </note>
+               <hi>and halfe a</hi> beaſt <hi>of the</hi> earth: <hi>and he hath ſuch a weighty body, that he cannot mount vp to</hi> fly <hi>aloft; but flickereth in ſuch-wiſe, as he cannot be out gone.</hi> Such <hi>are thoſe</hi> holy-vnholy worldlings, <hi>that will needes</hi> mingle hea<g ref="char:EOLhyphen"/>uen and earth <hi>together; that will ſeeme to haue their converſation in</hi> heauen, <hi>when yet their affections
+<pb n="14" facs="tcp:16153:17"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:16153:17"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:16153:18"/>weigh them downe to the</hi> earth; <hi>that (contrary to the</hi> Apoſtle's <hi>rule,</hi>
+               <note place="margin">2 Tim: 2: 4:</note>
+               <hi>2 Tim: 2:</hi>) <hi>will</hi> Deo militare, &amp; ſaeculo ſe implicare: be God's ſouldiours, and the world's ſolici<g ref="char:EOLhyphen"/>tours. <hi>Nay,</hi>
+               <note place="margin">Matt: 6: 24.</note> (<hi>contrary to our</hi> Sauiour's <hi>rule, Mat. 6: will</hi> Deo &amp; Mammonae ſervire, diuide their ſeruice betwint God and Mammon.</p>
+            <p n="5">
+               <hi>5 Or,</hi> Sicut Pavonis, like vnto a Peacock, <hi>whoſe</hi> pleaſant wings,<note place="margin">Iob: 39: 16.</note> (<hi>as the holy man</hi> Iob <hi>call's them</hi>) <hi>more</hi> pleaſant <hi>to</hi> others, <hi>than</hi> profitable <hi>to</hi> himſelfe, <hi>are more for</hi> oſtentation, <hi>than for</hi> vſe. Et dumpluma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> oſtentat,<note place="margin">Fulgent: Mythol:</note> poſteriora turpitèr nudaet, <hi>ſaith</hi> Fulgentius; and whiles he ſpreade's out his gaudy plumes, he diſ<g ref="char:EOLhyphen"/>playe's the ouglines of his hinder-parts. Such <hi>are our</hi> Angelicall Goſpellers <hi>at this day; who yet</hi> differ <hi>from the</hi> Peacock <hi>in</hi> this, <hi>that whereas the</hi> Peacock <hi>is ſaide to houe</hi> Argus his Eyes <hi>in his</hi> tayle, <hi>they (it ſhould ſeeme) haue them in their</hi> heads. <hi>Elſe, how could they eſpy ſo many</hi> ſuperſtitious obliquities <hi>in our Church, where our</hi> Eagle-eyed Praelates <hi>can ſee none? Theſe men, while they</hi> ſpreade <hi>out their gay</hi> plumes, (Iactantiam in verbis, arrogantiam in factis) <hi>while they</hi> ſimper <hi>it</hi> devoutly, <hi>and yet</hi> raile Ieſuitically <hi>a<g ref="char:EOLhyphen"/>gainſt</hi> Church, <hi>and</hi> State; <hi>while they heare Sermons, pray, giue almes, make a</hi> ſowre Lenten-face (<hi>all,</hi> to be ſeene of men,<note place="margin">Matt: 6: 5.</note>
+               <hi>Matt: 6: onely, they loue not to be ſeene to</hi> faſt, <hi>but with</hi> full bellies) <hi>what do they but ſhew the</hi> ouglines <hi>of their</hi> hinder-parts? <hi>bewray the</hi> fearefulnes <hi>of their</hi> later <hi>end?</hi>
+            </p>
+            <p n="6">
+               <hi>6 Or,</hi> Sicut Sturni, like vnto a Stare; <hi>which firſt ſuck's vp the</hi> pigeon's <hi>eggs, and then</hi> flyeth away. <hi>Such were the</hi> thieuiſh Monkes <hi>in S<hi rend="sup">t</hi>
+               </hi> Auſtin's <hi>time, whome
+<pb n="17" facs="tcp:16153:18"/>he thus derideth;</hi> () O ſi illis Dominus pennas daret,<note place="margin">Auſtin: de opere Monach: c: <hi>23.</hi>
+               </note> vt tanqua<g ref="char:cmbAbbrStroke">̄</g> ſturni fugarentur! O that they had wings, that they might be chaſed away like ſtares! <hi>And</hi> ſuch <hi>are the thieuiſh</hi> Ieſuites <hi>and</hi> Seminaries <hi>at this day, who</hi> creepe into widow's houſen, and leade captiue ſimple women laden with ſin, <hi>as the Apoſtle ſpeake's,</hi>
+               <note place="margin">2 Tim: 3: 6.</note>
+               <hi>2 Tim: 3: and when they haue ſo done, they are gone; like that</hi> olde Seminary (<hi>euen the</hi> Father <hi>of</hi> Seminaries) <hi>the</hi> Diuel, Qui ſuper ſeminavit, &amp; abijt: () who,<note place="margin">Matt: 13: 25.</note> when he had ſowed tares among the good corne, went his way. <hi>Of</hi> them <hi>I will not ſay, as S<hi rend="sup">t</hi>
+               </hi> Auſtin <hi>of the</hi> Monkes, O ſi illis Dominus pennas daret! <hi>but,</hi>
+               <note n="*" place="margin">Praiſed be the Lord: for he hath heard the voice of my humble petiti<g ref="char:EOLhyphen"/>ons, Pſa: 28: 7. Iunij 14: 1624.</note> O ſi illi Domino Regi paenas darent, ut tanquam ſturni fu<g ref="char:EOLhyphen"/>garentur! O that my Lord the King would giue yet <hi>(if it may be)</hi> ſome ſtricter order, for the baniſhing of theſe egg-ſucking ſtares <hi>out of the</hi> Doue-coate <hi>of our</hi> Church! <hi>otherwiſe likely, within a while, to become a</hi> Cage <hi>of</hi> vncleane birds; <hi>a place</hi> for Zijm and Ohim,<note place="margin">Apoc: 18.2. Eſa: 34: 11.</note> the Satyres, and the Scritche-owles <hi>of</hi> Rome to lodge in.</p>
+            <p n="7">
+               <hi>7 Or,</hi> Sicut Anſeris, like vnto a Gooſe; <hi>whoſe</hi> wings <hi>are but of litle vſe, ſaue onely to make</hi> pennes <hi>with.</hi> Such <hi>are that rabulous rabble of</hi> Romiſh Rab<g ref="char:EOLhyphen"/>ſakehs: (Stapleton, Parſons, Becanus, Tortus, <hi>and o<g ref="char:EOLhyphen"/>ther</hi> birds <hi>of the</hi> ſame feather) ſet to keepe the Capi<g ref="char:EOLhyphen"/>tol <hi>of the</hi> Church <hi>of</hi> Rome, <hi>and with the</hi> gaggling <hi>noiſe of their</hi> ſcribbling Gooſe-quills, <hi>to giue warning of whatſoeuer</hi> hoſtile impreſsions. <hi>With them they daily make</hi> flying bookes; <hi>like</hi> Zacharie's Volumen volans; <hi>his</hi> flying booke of curſes, <hi>Zach: 5.</hi>) Flying?<note place="margin">Zach: 5: 1.</note>
+               <hi>I might haue ſaid,</hi> Lying bookes, <hi>that ſpare neither</hi>
+               <pb n="16" facs="tcp:16153:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:16153:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:16153:20"/>King, <hi>nor</hi> Kaeſar, <hi>that is againſt them.</hi>
+            </p>
+            <p n="8">8 <hi>Or,</hi> Sicut Veſpertilionis, like vnto a Batt; <hi>which</hi> (<hi>with the</hi> adulterous ey,<note place="margin">Prou: 7: 9:</note>
+               <hi>Prou: 7:</hi>) <hi>watcheth for the</hi> twi-light. <hi>Such are our</hi> Aequivocal Prote<g ref="char:EOLhyphen"/>ſtants, <hi>who loue the</hi> twi-light <hi>of</hi> truth, <hi>better than the</hi> noone-light; <hi>whoſe Religion may well enough be declined with the article</hi> (Hoc) <hi>for it is of the</hi> Neu<g ref="char:EOLhyphen"/>ter gender;<note place="margin">
+                  <hi>Pli: l:</hi> 35: 6: 9.</note>
+               <hi>Not much vnlike him</hi> (<hi>in</hi> Pliny) <hi>whoſe picture was ſo ambiguouſly drawne by</hi> Polygnotus Thaſius <hi>a c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nning Painter, that it was doubted,</hi> Aſ<g ref="char:EOLhyphen"/>cendentemnè cumclypeo depinxiſſet, an deſcendentem: whither he had painted him climbing vpward, or go<g ref="char:EOLhyphen"/>ing downeward with his ſhield. <hi>For, ſo cunningly do theſe</hi> Vtrinquet aries <hi>cary theire</hi> ſhield of faith, (<hi>as the Apoſtle call's it,</hi>
+               <note place="margin">Eph: 6.16:</note>
+               <hi>Epheſ: 6:</hi>) that it iuſtly may be doubted, <hi>whither it be to</hi> defend Vs, <hi>or our</hi> Aduerſa<g ref="char:EOLhyphen"/>ries. <hi>They haue one foote within thy gates, O</hi> Ieru<g ref="char:EOLhyphen"/>ſalem! <hi>another within the gates of</hi> Babylon: <hi>One, within thy Church, O</hi> England! <hi>another within the Church of</hi> Rome: <hi>One</hi> wing <hi>to</hi> fly to vs: <hi>and ano<g ref="char:EOLhyphen"/>ther, to</hi> fly from vs.</p>
+            <p n="9">
+               <hi>9 Or, laſtly,</hi> Sicut Icari, like vnto Icarus <hi>in the Fable; who for want of better, got him</hi> Alas cereas, wexen wings, <hi>which ſo ſoone as they were melted with the heate of the Sunne,</hi>
+            </p>
+            <p>Icarus Icareis nomina fecit aquis;<note place="margin">Ovid.</note> Downe come's Icarus into the Icarean Sea, <hi>and becomes (if I may ſo ſpeake) a</hi> God-father <hi>to the Sea that</hi> Chriſten'd <hi>him. Such are thoſe</hi> Mountebanke-<hi>Diuines, who ſome<g ref="char:EOLhyphen"/>times</hi> fly <hi>aloft to high place, not</hi> Alis ſcientiarum, with the wings of knowledge; <hi>but,</hi> Alis diuitiarum,
+<pb n="19" facs="tcp:16153:20"/>with the wexen wings of their riches: <hi>For, as</hi> riches make themſelues wings, and fly away,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rou: 23: 5.</note> ()<hi>ſo do they alſo make</hi> wings <hi>for thoſe that haue them</hi> (Icarean, wexen wings; <hi>euen of the</hi> wexe <hi>of the</hi> King's Broade Seale) <hi>wherewith they</hi> mount <hi>them aloft to praeferment.</hi>
+            </p>
+            <p>
+               <hi>But, (beloued) it's none of theſe</hi> SICVT'S <hi>will ſerue the turne; Nor</hi> Sicut Cicadae, wings like a Graſs-hopper; <hi>or</hi> like <hi>a</hi> Kyte; <hi>or</hi> like <hi>a</hi> Falcon; <hi>or</hi> like <hi>an</hi> Oſtritch; <hi>or</hi> like <hi>a</hi> Peacock; <hi>or</hi> like <hi>a</hi> Stare; <hi>or</hi> like <hi>a</hi> Gooſe; <hi>or like</hi> Icarus; (<hi>theſe are</hi> Ala malae, ſory wings to ſoare with;) <hi>but</hi> Sicut Columbae, wings like an innocent Doue, <hi>wherewith to</hi> fly <hi>from</hi> ſuch wings <hi>as theſe.</hi> They, they <hi>be the</hi> wings, <hi>which the righte<g ref="char:EOLhyphen"/>ous ſoule ſomuch deſireth. For,</hi> wiſdome (<hi>with her</hi> retinue <hi>of</hi> graces <hi>and</hi> virtues) will not enter In ma<g ref="char:EOLhyphen"/>levolam animam; into any but an innocent ſoule. () <hi>It's therfore our Sauiour's aduiſe to his Diſciples,</hi>
+               <note place="margin">
+                  <hi>Sap:</hi> 1: 4: Matt: 10: 16.</note> () Be ye wiſe as Serpents, and innocent as Doues: Wiſe as Serpents, Vt antiquo Serpenti reſiſtatis; that ye may be able to reſiſt that olde Serpent, the Diuel, and innocent as Doues, Vt Columbae, ſpiritui Sancto, placeatis; that ye may pleaſe the holy Ghoſt, who came downe in the forme of a Doue. <hi>He would haue them to be</hi> Vt Columbae ſine felle,<note place="margin">Matt: 3: 16:</note> as Doues without gall or bitternes; <hi>but not like</hi> Ephraim,<note place="margin">
+                  <hi>Ruffin: in loc:</hi> Oſe: 7: 11.</note>
+               <hi>Oſe: 7:</hi> Vt Columba ſi<g ref="char:EOLhyphen"/>ne corde: as a Doue deceiued, without heart. <hi>The</hi> Diuel <hi>is a</hi> winged Serpent, <hi>ſwift to make after you. It is then but needefull, that ye be</hi> winged Doues, <hi>ſwift to fly from him.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: The wings of the Doue (<hi>ſaith</hi> Suidas) are the gifts and graces of the holy Ghoſt; <hi>the wings,</hi>
+               <note place="margin">Suidas.</note>
+               <hi>that make the</hi>
+               <pb n="18" facs="tcp:16153:21"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:16153:21"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:16153:22"/>
+               <hi>godly</hi> (<hi>yea,</hi> though they haue lyen among the potts, <hi>as being</hi> black <hi>with</hi> afflictions) <hi>to be</hi> Sicut pennae Co<g ref="char:EOLhyphen"/>lumbae deargentatae,<note place="margin">Pſal. 68.13:</note>
+               <hi>Pſal: 68:</hi> as the wings of a Doue that is covered with ſyluer, and whoſe feathers are like yelow gold; <hi>that is,</hi> right deare and pretious in the ſight of God. <hi>Theſe</hi> wings <hi>till we haue obteined of</hi> God <hi>by</hi> prayer, fly <hi>we cannot: but when once wee haue obteined them, then we may, &amp; muſt</hi> fly; <hi>which is my</hi> fourth <hi>point.</hi>
+               <note place="margin">
+                  <hi>4</hi> TVNC VO<g ref="char:EOLhyphen"/>LABO.</note> TVNC VOLABO, then would I fly away.</p>
+            <p>
+               <hi>No ſooner were the</hi> creples leggs <hi>reſtored vnto him by</hi> Peter,<note place="margin">Act: 3: 8.</note>
+               <hi>but he</hi> walked; () <hi>So; no ſooner muſt we haue</hi> wings giuen <hi>vs by</hi> God, <hi>but we muſt</hi> fly. <hi>For, what are we the better to haue</hi> wings, <hi>if we</hi> vſe <hi>them not? Or, how do we</hi> vſe <hi>them, if we</hi> fly <hi>not with them? For, a</hi> wing, (<hi>ſay the</hi> Greekes) <hi>is call'd</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, quaſi <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>of</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to fly. <hi>And</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Plato.</note>
+               <hi>ſaith</hi> Plato, the vſe and office of a wing, is to heaue vp that which is heauy towards heauen.</p>
+            <p>
+               <hi>The</hi> Soule <hi>then that wilbee</hi> Avis Paradiſi a bird of that heauenly Paradiſe, <hi>muſt be not onely</hi> Pennata, <hi>but</hi> Volatilis <hi>too, ſhee muſt not onely</hi> haue wings, <hi>but ſhee muſt</hi> fly. <hi>So ſhall ſhee be ſure to haue the com<g ref="char:EOLhyphen"/>fortable</hi> gale <hi>of God's</hi> Spirit <hi>to further her, as</hi> birds fly <hi>beſt, when they haue the</hi> winde <hi>with them. I ſay, ſhee muſt haue</hi> wings, <hi>not onely</hi> Ad velandum, to couer her nakednes, <hi>but</hi> Ad volandum <hi>too,</hi> to lift vp her ſin-bred weightines; Wings, Quibus le<g ref="char:EOLhyphen"/>vet ſe ſupra ſe (<hi>as</hi> Bernard <hi>ſpeake's</hi>) wherewith ſhee may lift vp her ſelfe aboue her ſelfe;<note place="margin">Bern: Auſtin: de verb: Apoſt: ſer. <hi>24.</hi>
+               </note> Wings, Quas dum portat, portatur: which while ſhee carieth <hi>here on</hi>
+               <!--switches here-->
+               <pb n="21" facs="tcp:16153:22"/>
+               <hi>earth, herſelfe is by them caried</hi> vp to <hi>heauen; Wings;</hi> that ſhee may <hi>Volare,</hi> not <hi>Conniti;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>fly,</hi> not <hi>flicker, and flutter to no purpoſe;</hi> like yong <hi>calow chickens,</hi> whoſe <hi>wings</hi> are not yet <hi>growne.</hi> And againe; Shee muſt <hi>Volare,</hi> not <hi>Humi reptare: fly, not creepe vpon the ground,</hi> by ſetting her heart v<g ref="char:EOLhyphen"/>pon <hi>earthly</hi> things; like <hi>wormes,</hi> and <hi>ſerpents,</hi> which <hi>go vpon their breſt and belly.</hi>
+               <note place="margin">Gen: 3: 14.</note>()</p>
+            <p>But, as our <hi>wings</hi> are not <hi>material wings:</hi> ſo nei<g ref="char:EOLhyphen"/>ther muſt our <hi>flight</hi> be a <hi>bodily flight;</hi> leſt it fare with vs, as with King <hi>Bladud</hi> the builder of <hi>Bath,</hi> who (as our <hi>Engliſh</hi> Chronicler report's) after many yeares ſtudy at <hi>Athens,</hi>
+               <note place="margin">St<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nw Chronic:</note> and 20 yeares reigne here in <hi>Eng<g ref="char:EOLhyphen"/>land, brake his necke,</hi>
+               <note place="margin">Egeſup: l: <hi>3:</hi> deſtr: Hieroſ: c: <hi>2.</hi>
+               </note>
+               <hi>while</hi> (<hi>Simon Magus</hi>-like) <hi>he at<g ref="char:EOLhyphen"/>tempted to fly in the aër.</hi>
+            </p>
+            <p>No; our <hi>flight</hi> muſt be a <hi>ſpiritual,</hi> not a <hi>bodily flight.</hi> But, <hi>whence?</hi> and <hi>whither</hi> muſt we <hi>fly? Whence?</hi> but <hi>à ſolicitudine ſaeculi? from the turbulent cares of this world? Whither?</hi> but <hi>Ad ſolitudinem cali? to the ſweete repoſe of a better world? Whence?</hi> but <hi>Ab ho<g ref="char:EOLhyphen"/>minibus abhominabilibus?</hi>
+               <note place="margin">Pſal: 57: 5. Pſal: 18: 2.</note>
+               <hi>from men that are abhomi<g ref="char:EOLhyphen"/>nable in their doings? Whither?</hi> but vnto <hi>God,</hi> who is <hi>fugientibus refugium? a refuge for all them that fly vnto him?</hi> And wiſdome it ſhalbe for vs to <hi>fly vnto him,</hi> ſith <hi>from him</hi> fly we cannot,<note place="margin">Pſal: 139: 8:</note> whitherſoeuer we <hi>fly.</hi>
+            </p>
+            <p>This (beloved) ſhould teach vs <hi>ſublimity</hi> in our <hi>flight;</hi> not to <hi>fly low</hi> &amp; cloſe to the ground, like <hi>ſwallows</hi> a<g ref="char:EOLhyphen"/>gainſt a ſtorme; but to <hi>raiſe</hi> our <hi>flight</hi> to a high pitch, euen as <hi>high,</hi> as the <hi>moſt High;</hi> as did <hi>Moſes</hi> when he <hi>ſaw</hi> him who is <hi>inviſible.</hi> For,<note place="margin">Heb: 11: 17.</note>
+               <hi>Mens quavis ave levi<g ref="char:EOLhyphen"/>or, cùm Deus pennas aptârit, praetervolat montes,</hi>
+               <note place="margin">Chriſeſt.</note> ſaith
+<pb n="20" facs="tcp:16153:23"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:16153:23"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:16153:24"/>
+               <hi>Chryſoſt: The ſoule, when God hath once furniſhed her with wings, flye's, lighter than any bird, ouer the high<g ref="char:EOLhyphen"/>eſt mountaines.</hi>
+               <note place="margin">Idem hom: <hi>16:</hi> in ep: ad Heb:</note> And ſo (as the ſame Father ſweetely elſewhere) <hi>Vt Deus in caelo dicitur, &amp; tamen eſt in terris; ita nos in terrâ, &amp; tamen in caelo ſumus: As God is ſaide to bee in heauen, and yet is alſo here on earth; ſo we that are here on earth, are yet alſo in hea<g ref="char:EOLhyphen"/>uen.</hi>
+            </p>
+            <p>But, as the <hi>Fowler</hi> hath many wiles, wherewith he beguile's the ſeely bird: ſo the <hi>Diuel,</hi> who is <hi>Au<g ref="char:EOLhyphen"/>eeps, &amp; proditor animae; a cunning fowler, and a pe<g ref="char:EOLhyphen"/>ſtilent traytour to the ſoule,</hi> hath many meanes to hin<g ref="char:EOLhyphen"/>der her <hi>flight</hi> to <hi>heauen.</hi>
+            </p>
+            <p n="1">1 Now he raiſeth vp a <hi>tempeſt of tribulation</hi> a<g ref="char:EOLhyphen"/>gainſt her, which ſo clott's, and clogg's, and praegra<g ref="char:EOLhyphen"/>vate's her <hi>wings,</hi> that ſhee becomes (as <hi>Gerſon</hi> ſpeake's) <hi>Similis paſſerculo compluto;</hi>
+               <note place="margin">Gerſon.</note>
+               <hi>like a weather-beaten ſparow, whoſe wings are ſo wett, he cannot fly.</hi>
+            </p>
+            <p n="2">2 Now hee <hi>lure's</hi> her vnto him, with the ſweete <hi>baites</hi> of the <hi>fleſh.</hi>
+            </p>
+            <p n="3">3 Now he ſeeke's to <hi>catch</hi> her in the <hi>pitfall</hi> of <hi>con<g ref="char:EOLhyphen"/>cupiſcence.</hi>
+            </p>
+            <p n="4">4 Now to <hi>entangle</hi> her with the curious <hi>net<g ref="char:EOLhyphen"/>worke</hi> of <hi>pride.</hi>
+            </p>
+            <p n="5">5 Now to <hi>inviſcate</hi> her with the <hi>bird-lime</hi> of <hi>couetouſnes.</hi> For, <hi>Amor rerum terrenarum, viſcum eſt ſpiritualium pennarum: The loue of earthly things</hi> (ſaith <hi>Auſtin</hi>) <hi>is as bird-lime to our ſpiritual wings.</hi>
+               <note place="margin">Auſt: de verb: Dom: ſer: <hi>33.</hi>
+               </note> Behold, no ſooner canſt thou <hi>couet,</hi> but thou art <hi>caught.</hi>
+               <note place="margin">Ibid:</note>
+               <hi>Quando volabis, vbi verè requieſcas, quando hìc, vbi malè haeſiſti, requieſcere voluiſti? O when
+<pb n="23" facs="tcp:16153:24"/>wilt thou fly thither, where thou may'ſt reſt indeede, ſeeing thou deſireſt to reſt here, where thy feathers are thy fetters?</hi> For, <hi>Ligatae pennae onus faciunt,</hi> as the ſame <hi>Auſtin</hi> elſewhere;<note place="margin">Auſt: in Pſal:</note> Though as good <hi>no wings,</hi> as <hi>lame wings,</hi> yet as good <hi>lame wings,</hi> as <hi>li<g ref="char:EOLhyphen"/>med wings;</hi> becauſe the <hi>wings</hi> of a bird, when they are <hi>bird-limed,</hi> are euen a burden vnto her; which yet, otherwiſe, ſerue <hi>Ad elevandum, ad alleviandum;</hi> not onely: <hi>to lift her</hi> vp, but <hi>to lighten her.</hi>
+            </p>
+            <p n="6">6 Now he lett's fly at her with his feathered <hi>bird-bolts of vanity;</hi> and with them indeede, moſt com<g ref="char:EOLhyphen"/>monly, he kill's the bird in the <hi>Ey.</hi>
+               <note place="margin">Ier: 9: 21.</note>
+            </p>
+            <p n="7">7 Now he privily ſhoote's at her with the <hi>hand-gun</hi> of: <hi>Atheiſme;</hi> and ſo,<note place="margin">Tit: 1: 16. Pſal: 14: 1.</note> plott's as it were a <hi>powder-treaſon</hi> againſt her, and againſt her Maker, to <hi>blow them vp</hi> (if it might be) at one blow.</p>
+            <p n="8">8 Now he <hi>compaſſeth</hi> her <hi>about with the ſnares of death;</hi> and laye's them ſo thicke,<note place="margin">Pſal; 18: 3.</note> ſhe can hardly eſcape them. <hi>ſnares</hi> of <hi>proſperity,</hi> and <hi>ſnares</hi> of <hi>ad<g ref="char:EOLhyphen"/>verſity; ſnares</hi> by <hi>foes,</hi> and <hi>ſnares</hi> by <hi>friends; ſnares</hi> in <hi>bed,</hi> and <hi>ſnares</hi> at <hi>board; ſnares</hi> at <hi>home,</hi> and <hi>ſnares abroade;</hi> as if the whole world were nothing but <hi>ſnares.</hi>
+            </p>
+            <p n="9">
+               <note place="margin">Pighius in Themide.</note>9 Nay, what will ye ſay, if as the <hi>Romanes</hi> painted <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>victory without wings;</hi> () ſo the Diuel would haue <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the ſoule</hi> to be <hi>without wings?</hi> If, as <hi>they clipt</hi> the <hi>wings</hi> of <hi>victory,</hi> that ſhe might neuer <hi>fly</hi> from <hi>them</hi> to their <hi>enemies;</hi> ſo <hi>he clip</hi> the <hi>wings</hi> of the <hi>ſoule,</hi> that ſhee may neuer <hi>fly</hi> from <hi>him</hi> to <hi>God,</hi> his greateſt <hi>enemy?</hi>
+            </p>
+            <p>All theſe (ye will grant mee) are ſtrong impedi<g ref="char:EOLhyphen"/>ments
+<pb n="22" facs="tcp:16153:25"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:16153:25"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:16153:26"/>
+               <hi>to our</hi> flying. <hi>Yet from all theſe ſhall wee ea<g ref="char:EOLhyphen"/>ſily</hi> fly, <hi>if we</hi> pray, Quis det! who will giue me wings, that I may fly! <hi>Or, if, being</hi> enſnared, <hi>we</hi> pray <hi>againe,</hi> Quis det! <hi>that is,</hi> Quis reddat! Who will looſe mee! <hi>who will</hi> render <hi>me my</hi> wings, <hi>that I may</hi> fly! Fly, <hi>&amp; exerciſe my ſelfe in</hi> flying! <hi>becauſe</hi> (<hi>as the</hi> Proverb <hi>is</hi>) Avis volans non timet retia: The flying bird feare's not the net. <hi>It's neither</hi> ginne, <hi>nor</hi> gunne, <hi>nor</hi> bird-bolt <hi>can reach vs, if we</hi> fly <hi>ſo</hi> high <hi>as</hi> heauen: <hi>Which, what is it, but to</hi> fly <hi>from</hi> danger <hi>to</hi> ſafety? <hi>from</hi> do<g ref="char:EOLhyphen"/>lour <hi>to</hi> ioy? <hi>from</hi> labour <hi>to</hi> reſt? <hi>To</hi> REST; <hi>which is my</hi> fift, <hi>and</hi> laſt <hi>point; being the</hi> end <hi>of the</hi> former end <hi>of our</hi> wings, <hi>which was</hi> flying; <hi>and ſhalbee the</hi> end <hi>and vp-ſhot of my praeſent diſcourſe.</hi>
+               <note place="margin">
+                  <hi>5</hi> ET REQVIESCAM.</note>
+               <hi>And that both you, and I may the ſooner</hi> be at reſt, <hi>ye ſhall ſeeme make ſuch haſte to</hi> fly <hi>ouer it, as if I were</hi> Ali<g ref="char:EOLhyphen"/>pes, wing-footed, <hi>with</hi> Mercury; <hi>nay, as if I had</hi> Mer<g ref="char:EOLhyphen"/>cury, <hi>or</hi> quick-ſyluer <hi>in my</hi> wings. Et requieſcam, and be at reſt.</p>
+            <p n="1">
+               <hi>1 The Method (ye ſee) is; firſt</hi> VOLABO, <hi>and then</hi> REQVIESCAM; Flying, <hi>firſt; and then</hi> Reſting; <hi>the labour of</hi> flying <hi>being the</hi> high-way <hi>to</hi> reſt; <hi>and</hi> reſt <hi>the vndoubted</hi> reward <hi>of that labour. For, as in</hi> Natural Philoſophy; Motûs meta, quies; Reſt is the end of motion; <hi>And, in</hi> Ciuil <hi>affaires;</hi> Motion, <hi>the way to</hi> promotion: <hi>So, in</hi> Diuinity, <hi>S<hi rend="sup">t</hi>
+               </hi> Paul <hi>muſt</hi> Sequi, <hi>be<g ref="char:EOLhyphen"/>fore he can</hi> Aſſequi; follow, <hi>before he can</hi> comprehend, <hi>Phil. 3. And here,</hi>
+               <note place="margin">Phil: 3: 12.</note>
+               <hi>we muſt</hi> Volare, <hi>before</hi> Requieſcere; fly,<note place="margin">Auſtin.</note>
+               <hi>before we can</hi> reſt. <hi>For,</hi> (<hi>as S<hi rend="sup">t</hi>
+               </hi> Auſtin <hi>ſaith well</hi>) Cùm audis Deum requieviſſe poſt opera, fruſtrà ſperas requiem, niſi poſt labores: Seeing ye heare, that God
+<pb n="25" facs="tcp:16153:26"/>reſted not, till after his ſix dayes works, in vaine ſhall ye hope for reſt, but after labour.</p>
+            <p>
+               <hi>Here then muſt we haue</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> poenitentiae, <hi>our</hi> ſix-dayes worke of Repentance, <hi>which is our</hi> flying to God, <hi>if hereafter we will haue</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Sabbath of reſt. <hi>() Nay, here muſt we haue our</hi> Quadrageſima,<note place="margin">Hebr: 4: 9,</note>
+               <hi>our</hi> Lent of Sorow <hi>for our</hi> ſinnes, <hi>if hereafter we will haue a</hi> Quinquageſima, a Pentecoſt, <hi>a</hi> Iubilee of ioy, <hi>and</hi> reſt. <hi>To be ſhort;</hi> here <hi>muſt we haue, as hath the</hi> Doue, <hi>and as had</hi> Doue-like Ezechias,<note place="margin">Eſa: 38: 14.</note> () Gemitum pro can<g ref="char:EOLhyphen"/>tu, mourning in ſted of ſinging, <hi>if</hi> hereafter <hi>we will haue, as haue the</hi> Seraphins, () Cantum pro gemitu,<note place="margin">Eſa: 6: 3.</note> ſinging in ſted of mourning.</p>
+            <p n="2">
+               <hi>2 Againe; In that the</hi> afflicted ſoule <hi>here</hi> prayeth <hi>vnto</hi> God, <hi>for</hi> wings, <hi>wherewith ſhe may</hi> fly <hi>vnto him, and</hi> reſt; <hi>we are taught, that there is no</hi> true reſt, <hi>but in</hi> God. <hi>It's a leſſon, which our Sauiour himſelfe teacheth; Io. 16.33.</hi> In me pacem, in mundo preſſuram;<note place="margin">Io: 16: 33.</note> In me ye ſhal haue peace, in the world ye ſhall haue af<g ref="char:EOLhyphen"/>fliction: <hi>There is</hi> Tempeſtas in imo, tranquillitas in ſummo; All ſtorme here beneath, all calme there a<g ref="char:EOLhyphen"/>boue. <hi>Whither then (thinke yel) is better, or more optable, to liue in perpetual</hi> ſtormes here beneaths <hi>or in a perpetual</hi> calme there aboue? <hi>To</hi> reſt <hi>in continual feare of manifold dangers and diſtreſſes? or, to</hi> reſt ſecure <hi>vnder the</hi> wings <hi>of</hi> God's protection, vnder which there is health? <hi>Malach: 4: 2. In a word,</hi>
+               <note place="margin">Malach: 4: 2.</note>
+               <hi>with</hi> Noah's crow, <hi>to glutt our ſelues with the</hi> carrion-de<g ref="char:EOLhyphen"/>lightes <hi>of the fleſh,</hi> floating <hi>in the</hi> deluge <hi>of this world, euen till we</hi> drowne <hi>our ſelues in perdition, neuer caring to returne againe to the</hi> Arke? <hi>Or,
+<pb n="24" facs="tcp:16153:27"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="25" facs="tcp:16153:27"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="26" facs="tcp:16153:28"/>with</hi> Noah's Doue,<note place="margin">Gen: 8: 8.</note>
+               <hi>tyred with fluttering abroad ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Arke, and finding no</hi> reſt <hi>for the ſole of h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> foote elſewhere, to retire back into the</hi> Arke of heauen? Fly <hi>we then to the</hi> windowes of heauen, as <hi>did</hi> Noah's Doue <hi>to the</hi> window of the Arke; <hi>the</hi> God, <hi>the</hi> true Noah (<hi>which ſignifieth</hi> Reſt) <hi>may</hi> put forth his hand to take vs in: <hi>And, with the</hi> Doue <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Cant: 2: frequent we</hi> Poramina petrae,<note place="margin">Cant: 2: 14.</note> the hoale<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the rock, <hi>by the frequent meditation of the bleeding wounds of our bleſſed Sauiour,</hi> the Rock of our ſal<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion. <hi>Then may we ſweetely ſing with our Princl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prophet,</hi>
+               <note place="margin">Pſal: 124: 6.</note>
+               <hi>Pſal: 124:</hi> Our ſoule is eſcaped, euen as a bi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> out of the ſnare of the fowler; the ſnare is broken as we are deliuered. <hi>Yea, then, and neuer till then <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we merily</hi> ſing a Requiem to our ſoule,<note place="margin">Pſal: 116: 7.</note>
+               <hi>Pſal: 116:</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vertere in requiem tuam, anima mea; Turne again t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy reſt, ô my ſoule, for the Lord hath rewarded the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>He hath already in</hi> part <hi>rewarded thee with a</hi> ſpir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tual reſt, <hi>by</hi> giuing <hi>thee</hi> wings <hi>to</hi> fly <hi>from ſorow <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> heavines, and ſhall hereafter reward thee to the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>with an</hi> aeternal Reſt,<note place="margin">Matt: 8: 11.</note>
+                  <hi>when thou ſhalt</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſit downe with Abraham, Iſaac, and Iacob in the <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dome of God; <hi>where ſorow and heauines ſhall</hi> fly fro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thee; and where thou ſhalt for euer celebrate a</hi> Sa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bath of reſt;<note place="margin">Eſa: 66: 23.</note>
+               <hi>euen</hi> Sabbathum ex Sabbatho () Sabbath after Sabbath, Sabbath vpon Sabbath, <hi>to the</hi> Lord <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>that</hi> Sabbath, <hi>Euen to God the Father, God the Son and God the holy Ghoſt, one thrice holy, bleſſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and vndiuided Trinity, To whome in perſons <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in eſſence one, be a ſcribed all Might, Maieſty; and Dominion both now and for euermore, AMEN</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:16153:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
